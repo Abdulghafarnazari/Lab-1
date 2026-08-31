@@ -1,6 +1,16 @@
 <?php
 
-// ==================== PART A & B — Student class ====================
+
+// Full Name: Abdul Ghafar Nazari
+// Student ID: 20
+// Kabul University - Faculty of Computer Science
+// Department: IT
+// Class: 4th(7th semester)
+
+
+
+
+// PART A & B — Student class 
 // Note: Part A and Part B both use a class named "Student".
 // In PHP we cannot create two classes with the same name in one file,
 // so both versions are combined here into a single Student class.
